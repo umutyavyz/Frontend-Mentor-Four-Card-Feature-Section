@@ -7,7 +7,7 @@ It was built using **React** and **Tailwind CSS**. The goal was to create a resp
 
 ## 🔗 Live Site
 
-👉 [Live preview here](https://umutyavyz.github.io/frontend-mentor-four-card-feature-section/)
+👉 [Live preview here](https://umutyavyz.github.io/Frontend-Mentor-Four-Card-Feature-Section/)
 
 ---
 
